@@ -8,5 +8,9 @@ namespace QLK
 {
     class Class1
     {
+    alo alo 123 thao 
+    dssdsđsdsđ
+    dsdsdsdsd
+    sdsdsdsdsd
     }
 }
